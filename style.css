@@ -1,0 +1,57 @@
+.header {
+    font-size: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container_tasks,.container {
+    display: flex;
+    justify-content: center;
+    
+}
+#title {
+    margin-left: 20px;
+}
+#text {
+    margin-left: 30px;
+}
+.task_input {
+    margin-right: 20px;
+}
+.form_block {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid gray;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.form_task {
+}
+.form_task {
+    margin-bottom: 20px;
+}
+.btn_subm {
+    font-size: 16px;
+    padding: 10px 20px;
+}
+.task {
+    width: 400px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+
+}
+.task_title {
+    font-size: 26px;
+}
+.task_text {
+    margin-bottom: 10px;
+}
+.btn_del {
+    font-size: 16px;
+    padding: 10px 20px;
+}
